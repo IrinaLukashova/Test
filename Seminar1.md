@@ -1,0 +1,1 @@
+## Summary of the first git seminar on the basic commands
