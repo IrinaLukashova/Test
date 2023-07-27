@@ -9,6 +9,6 @@
 
 * *git merge branch_name* - команада, осуществляющая слияние текущей ветки с branch_name
 
-* *git barnch -d branch_name* - команда, удалящая ветку branch_name;
+* *git branch -d branch_name* - команда, удалящая ветку branch_name;
 
 ### Конфликты при слиянии
